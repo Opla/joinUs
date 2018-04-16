@@ -24,7 +24,7 @@ It is easy : just add an issue or create a PR in one of these repos:
 
 https://github.com/Opla
 
-### The ES17+ framework
+### The ES2017+ framework
 
 https://github.com/Zoapp
 
