@@ -1,2 +1,2 @@
 # joinUs
-We are hiring ! Here you will found all informations about the process.
+We are hiring ! Here you will found how to join us.
