@@ -18,7 +18,9 @@ We love vanilla coding and we believe in openness.
 
 # How to apply ?
 
-It is easy : just add an issue or create a PR in one of these repos:
+It is easy, from the source : get it, code it, test it, understand it.
+
+After you just add an issue or create a PR in one of these repos:
 
 ### The Open chatbot builder
 
