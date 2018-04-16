@@ -14,6 +14,8 @@ We work on AI and conversational interfaces at the deeper level: coding everythi
 
 We love vanilla coding and we believe in openness.
 
+You are an ES2018 lover, a Pythonist, a NLP enthusiast ?
+
 To apply just add an issue or create a PR in one of these repos:
 
 The Open chatbot builder
