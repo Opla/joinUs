@@ -34,6 +34,7 @@ https://github.com/Zoapp
 
 https://github.com/openNLX
 
+And we will contact you.
 
 # About us
 CWB SAS (known as Opla) was founded in 2015 by Marie Dorange & Mik BRY. Opla is not a side project. Actually we are a team of six working on it, and we are growing fast.
