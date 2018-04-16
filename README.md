@@ -14,7 +14,7 @@ We work on AI and conversational interfaces at the deeper level: coding everythi
 
 We love vanilla coding and we believe in openness.
 
-#### You are an ES2018 lover, a Pythonist, a NLP enthusiast ?
+#### You are an ES2018 lover, an unconventional pythonist or an AI/NLP enthusiast ?
 
 # How to apply ?
 
@@ -50,6 +50,7 @@ Working at Opla :
 * A deep tech focus with real R&D in NLP and DeepLearning
 * Top-notch stack : React, NodeJS, Github, Docker, …
 * Working on open-source projects
+* Well funded
 * Diversity is welcome 
 
 Join the team, and Opla !
