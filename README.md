@@ -16,9 +16,9 @@ We love vanilla coding and we believe in openness.
 
 #### You are an ES2018 lover, a Pythonist, a NLP enthusiast ?
 
-# To apply ?
+# How to apply ?
 
-just add an issue or create a PR in one of these repos:
+It is easy : just add an issue or create a PR in one of these repos:
 
 ### The Open chatbot builder
 
