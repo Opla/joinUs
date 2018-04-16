@@ -16,11 +16,11 @@ We love vanilla coding and we believe in openness.
 
 #### You are an ES2018 lover, an unconventional pythonist or an AI/NLP enthusiast ?
 
-# How to apply ?
+# Yeah sure ! How to apply ?
 
-It is easy, from the source : get it, code it, test it, understand it.
+It is easy, from the source : fork, code, test, understand.
 
-After you just add an issue or create a PR in one of these repos:
+After, you add an issue or create a PR in one of these repos:
 
 ### The Open chatbot builder
 
