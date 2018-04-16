@@ -33,7 +33,7 @@ https://github.com/Zoapp
 
 https://github.com/openNLX
 
-After, you add an issue or create a PR. Or if you prefer send an email to Mik.
+After, you add an issue or create a PR. If you prefer send an email to Mik.
 
 And we will contact you.
 
