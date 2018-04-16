@@ -43,15 +43,14 @@ CWB SAS (known as Opla) was founded in 2015 by Marie Dorange & Mik BRY. Opla is 
 Opla.ai is a software platform to build unique and open Chatbots and conversational agents !
 
 A modular platform :
-* Powerful deep tech kernel
-* 100% coded from scratch
+* Powerful deep tech core
+* Top-notch stack : React, NodeJS, Github, Docker, …
 * Agnostic from NLP and APIs
+* A real R&D focus in NLP and DeepLearning
 
 Working at Opla :
 * Remote is in our DNA, from all around the world
-* A deep tech focus with real R&D in NLP and DeepLearning
-* Top-notch stack : React, NodeJS, Github, Docker, …
-* Working on open-source projects
+* Participate on open-source projects
 * Well funded
 * Diversity is welcome 
 
